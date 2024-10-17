@@ -1,4 +1,4 @@
-# Red Pill Truth or Scam
+#Red Pill Truth or Scam
 
 A small coefficent analysis on divorce dataset disporving Redpill claims
 
